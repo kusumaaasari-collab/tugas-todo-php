@@ -5,7 +5,7 @@ Aplikasi manajemen tugas sederhana untuk menambah dan menghapus daftar tugas men
 
 ## Daftar Anggota
 - **Ida Ayu Cahya Nirmala Dewi** - 240030063 - @caahyadayu-create (Peran: Back-end & Database)
-- **Nama Lengkap Teman** - 240030086 - @username: sedang dikonfirmasi - (Peran: Front-end & UI Design)
+- **Kadek Intan Kusuma Sari** - 240030086 - @kusumaaasari-collab - (Peran: Front-end & UI Design)
 ## Lingkungan Pengembangan
 - **XAMPP** (Apache & MySQL)
 - **Editor**: Visual Studio Code
